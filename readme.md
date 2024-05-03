@@ -1,41 +1,41 @@
-# Chloropleth Map - Fill in maps with clor values
 
-![Code Logo](code.png)
+# Chorpleth Map  - Mapping solution for global and local choropleth maps
+Mapping solution for global and local choropleth maps
 
-## Chloropleth Map - Fill in maps with clor values !! 
+![Image image_filename](code.png)
 
+Welcome to the solution **Chorpleth Map ** - an example for your projects
 
-![Developer Logo](developer.png)
+Mapping solution for global and local choropleth maps
+
+![Image image_filename](sample.png)
 
 ## Features
-
-- Dynamic and interactive 
-- Map any region
-- Map any index
-- Makes complex Data simpler to understand
- 
-
-![sample Logo](sample.png)
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
 
 ## Notebook Features
-
-- Self Documenting 
-- Self Testing 
-- Easily Configurable
-- Includes Talking Code 
-- Self Logging 
-- Self Debugging 
-
+- **Self Documenting** - Automatically identifes major steps in notebook 
+- **Self Testing** - Unit Testing for each ptyhon function
+- **Easily Configurable** -easily modifyable with config.INI name value pairs
+- **Includes Talking Code** - The code explains itself.
+- **Self Logging** - enhanced python standard logging   
+- **Self Debugging** - enhanced python standard debugging
+- **Low Code - or - No Code** - Most solutions are under 50 lines of code
+- **Educational** - Includes educational dialogue and background material
+    
 ## Getting Started
-
-To get started with the project, follow these steps:
-
+To get started with the **Chorpleth Map ** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and your life is easier !
+4. Run the notebook and make it your own - **EASY !**
+    
+## https://github.com/JoeEberle/ -- josepheberle@outlook.com 
+    
+![Developer](developer.png)
 
-
-
-
-
+![Brand](brand.png)
+    ![additional_image](chloropleth_map.png)  <br>
