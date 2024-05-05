@@ -48,5 +48,5 @@ To get started with the **Chorpleth Map ** solution repository, follow these ste
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](chloropleth_map.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](chloropleth_map.png)  <br>
     
