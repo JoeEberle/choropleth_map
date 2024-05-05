@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Chorpleth Map  - Mapping solution for global and local choropleth maps
 Mapping solution for global and local choropleth maps
 
@@ -9,8 +11,6 @@ Welcome to the solution **Chorpleth Map ** - an example for your projects
 Mapping solution for global and local choropleth maps
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
