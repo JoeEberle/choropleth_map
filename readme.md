@@ -4,21 +4,11 @@
 
 ## Mapping solution for global and local choropleth maps
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Choropleth Map ** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Choropleth Map ** 
 
 Mapping solution for global and local choropleth maps
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
